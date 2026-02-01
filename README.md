@@ -1,2 +1,5 @@
 # -Forage-Virtual-Internship-Project
-In the simulation I:  * Completed a Deloitte job simulation involving data analysis and forensic  technology   * Created a data dashboard using Tableau   * Used Excel to classify data and draw business conclusions
+## In the simulation I:  
+* Completed a Deloitte job simulation involving data analysis and forensic  technology
+* Created a data dashboard using Tableau
+* Used Excel to classify data and draw business conclusions
